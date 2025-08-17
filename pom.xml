@@ -6,7 +6,7 @@
 
     <groupId>com.zyneonstudios.nexus</groupId>
     <artifactId>mojang-auth</artifactId>
-    <version>2025.8</version>
+    <version>2025.8.1</version>
     <packaging>jar</packaging>
 
     <description>Authenticates Minecraft access with Microsoft Xbox Live login</description>
@@ -17,9 +17,9 @@
 
     <distributionManagement>
         <repository>
-            <id>nerofy-snapshots</id>
+            <id>nerofy-releases</id>
             <name>Nerofy Network Maven repository</name>
-            <url>https://maven.nrfy.net/snapshots</url>
+            <url>https://maven.nrfy.net/releases</url>
         </repository>
     </distributionManagement>
 
