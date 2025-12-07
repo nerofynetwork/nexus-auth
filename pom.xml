@@ -4,9 +4,9 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.zyneonstudios.nexus</groupId>
+    <groupId>org.zyneonstudios.apex</groupId>
     <artifactId>mojang-auth</artifactId>
-    <version>2025.8.1</version>
+    <version>2025.12</version>
     <packaging>jar</packaging>
 
     <description>Authenticates Minecraft access with Microsoft Xbox Live login</description>
